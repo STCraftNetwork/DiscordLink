@@ -1,0 +1,11 @@
+---
+name: DiscordLink
+version: 0.0.1
+main: OnlyJaiden\DiscordLink\Main
+api: 5.23.2
+src-namespace-prefix: OnlyJaiden\DiscordLink
+
+permissions:
+  discordlink.command.linkdiscord:
+    default: true
+...
