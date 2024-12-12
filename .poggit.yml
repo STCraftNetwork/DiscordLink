@@ -4,5 +4,8 @@ branches:
 - main
 projects:
   DiscordLink:
+    libs:
+      - src: jaxkdev/discordbot
+        version: ^3.0.5
     path: ""
 ...
